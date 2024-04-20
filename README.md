@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💙 React Native 💙
+[![Reactnative-Background.png](https://i.postimg.cc/pV48nnwS/Reactnative-Background.png)](https://postimg.cc/Jt3tft43)
 
-![License-Mit](https://img.shields.io/badge/license-MIT-lightseagreen)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 
   <p align="center">
     <a href="#projects">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
