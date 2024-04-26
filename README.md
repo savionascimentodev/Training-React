@@ -50,6 +50,7 @@ Códigos feitos para estudos de ReactNative
 ### 🚧 Projetos em fase de Construção...⏳
 ##### Mais projetos em breve...
 
+<!-- Projeto Eve Station usa autenticação do Google com o Clerk complicadinho em -->
 </div>
 
 ---
