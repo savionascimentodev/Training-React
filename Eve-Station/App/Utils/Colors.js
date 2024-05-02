@@ -2,5 +2,6 @@ export default {
   PRIMARY: '#0BC224',
   GRAY: '#898989',
   WHITE: '#FFF',
-  BLACK: '#000'
+  BLACK: '#000',
+  TRANSPARENT: '#FFFFFF99'
 }

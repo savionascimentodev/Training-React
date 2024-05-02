@@ -20,9 +20,9 @@ export default function TabNavigation() {
         component={HomeScreen}
         options={{
           tabBarActiveTintColor: Colors.PRIMARY,
-          tabBarLabel: "Search",
+          tabBarLabel: "Pesquisar",
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="search" size={24} color={color} />
+            <Ionicons name="search" size={size} color={color} />
           )
         }}
       />
@@ -31,9 +31,9 @@ export default function TabNavigation() {
         component={FavoriteScreen}
         options={{
           tabBarActiveTintColor: Colors.PRIMARY,
-          tabBarLabel: "Search",
+          tabBarLabel: "Favoritos",
           tabBarIcon: ({ color, size }) => (
-            <Ionicons name="heart" size={24} color={color} />
+            <Ionicons name="heart" size={size} color={color} />
           )
         }}
       />
@@ -42,9 +42,9 @@ export default function TabNavigation() {
         component={ProfileScreen}
         options={{
           tabBarActiveTintColor: Colors.PRIMARY,
-          tabBarLabel: "Search",
+          tabBarLabel: "Perfil",
           tabBarIcon: ({ color, size }) => (
-            <FontAwesome name="user-circle" size={24} color={color} />
+            <FontAwesome name="user-circle" size={size} color={color} />
           )
         }}
       />
